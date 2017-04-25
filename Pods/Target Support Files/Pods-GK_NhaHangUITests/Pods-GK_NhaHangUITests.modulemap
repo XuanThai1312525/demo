@@ -1,0 +1,6 @@
+framework module Pods_GK_NhaHangUITests {
+  umbrella header "Pods-GK_NhaHangUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

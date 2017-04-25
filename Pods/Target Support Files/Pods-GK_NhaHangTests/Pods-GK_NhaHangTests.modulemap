@@ -1,0 +1,6 @@
+framework module Pods_GK_NhaHangTests {
+  umbrella header "Pods-GK_NhaHangTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
